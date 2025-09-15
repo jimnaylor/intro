@@ -8,5 +8,5 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   site: "https://jimnaylor.github.io/intro",
-  base: "/intro/",
+  base: "/intro",
 });
